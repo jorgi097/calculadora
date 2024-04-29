@@ -1,6 +1,18 @@
 .input{
     background-color: black;
-    height: 100 px;
-    width: 90%;
-    border-radius: 15px;
+    height: 50px;
+    width: 80%;
+    border-radius: 50px;
+    margin-bottom: 20px;
+    margin: 4px solid #888;
+    display: flex;
+    justify-content: flex-end;
+    align-items: center;
+    font-weight: bold;
+    font-size: 30px;
+    color: white;
+    padding: 11px;
+    padding-right: 30px;
+    box-shadow: -1px 4px 1px 1px white;
+    align-self: center;
 }
